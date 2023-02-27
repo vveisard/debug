@@ -1,6 +1,6 @@
 {
   "name": "@vveisard/debug",
-  "version": "1.0.2",
+  "version": "1.0.13",
   "description": "me bug",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,6 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com:vveisard-lab/debug.git"
+    "url": "github:molefrog/wouter"
   }
 }
