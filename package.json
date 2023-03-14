@@ -11,6 +11,6 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/vveisard-lab/debug.git"
+    "url": "git+ssh://git@github.com:vveisard/debug.git"
   }
 }
